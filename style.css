@@ -6,4 +6,5 @@ h1 {
     color: rgb(185, 110, 110);
     font-size: 50px;
     text-align: center;
+    text-transform: uppercase;
 }
